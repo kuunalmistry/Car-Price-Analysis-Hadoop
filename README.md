@@ -756,12 +756,3 @@ Individual LSDS Project — Semester 4
 
 ---
 
-## Disclaimer
-
-This repository contains an academic implementation created for learning and demonstrating large-scale data storage and processing concepts. The analysis, visualizations, and observations are based on the project dataset and are intended for educational purposes.
-
----
-
-## License
-
-This project is intended primarily for academic and educational use. If you reuse substantial portions of the implementation, please provide appropriate attribution to the original author.
