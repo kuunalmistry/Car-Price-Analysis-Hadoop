@@ -146,9 +146,9 @@ The project combines batch processing, analytical querying, NoSQL storage, and s
                                                           └──────┘
 ```
 
-A generated architecture diagram is also available at:
+A generated architecture diagram is also included below:
 
-`Dataset/project_architecture_professional.png`
+![Project Architecture](Dataset/Dashboards/project_architecture_professional.png)
 
 ---
 
@@ -447,7 +447,7 @@ Example:
 
 Architecture:
 
-![Project Architecture](Dataset/project_architecture_professional.png)
+![Project Architecture](Dataset/Dashboards/project_architecture_professional.png)
 
 ---
 
