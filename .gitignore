@@ -1,0 +1,11 @@
+# Reproducible large dataset (>100 MB GitHub limit)
+Dataset/car_price_big.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
